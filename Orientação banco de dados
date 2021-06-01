@@ -1,0 +1,10 @@
+O banco de dados segue a ordem:
+1-Código
+2-Nome
+3-Sinopse
+4-Ano de lançamento
+5-Classificação indicativa
+6-Gênero
+7-Elenco(direção,atores)
+8 e 9-Livro de origem(Nome do livro,Nome do autor)
+10-Ano de outras adaptações
