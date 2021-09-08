@@ -18,7 +18,7 @@ O programa pesquisa os filmes presentes no banco de dados e os exibe de acordo c
 13-Tragédia/drama<br />
 
 - **Orientação banco de dados**<br />
-  É um único arquivo com todos os filmes já adicionados(67 no total)
+  É um único arquivo com todos os filmes já adicionados(67 no total)<br />
 1-Código<br />
 2-Nome<br />
 3-Sinopse<br />
